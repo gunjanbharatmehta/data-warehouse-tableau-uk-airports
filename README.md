@@ -30,8 +30,8 @@ The project is divided into several tasks, each with specific objectives. Here i
 
 This repository includes the following resources:
 
-- **data**: A folder containing the 12 monthly files of punctuality statistics for UK airports in 2021.
+- **Data**: A folder containing the 12 monthly files of punctuality statistics for UK airports in 2021.
 - **create_tables.sql**: A SQL script file with the CREATE table statements for the star schema tables.
 - **OLAP_cubes_benefits.md**: A Markdown file discussing the benefits of OLAP cubes in the airline industry.
-- **Tableau_visualizations**: A folder containing the Tableau workbooks and related files for the visualizations.
+- **Tableau_Visualisations**: A folder containing the Tableau workbooks and related files for the visualizations.
 - **report.pdf**: A PDF report summarizing the project's findings, including the discussions, design decisions, and visualizations.
